@@ -1,0 +1,12 @@
+.background {
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1734129854/display_1500/stock-vector-flat-vector-illustration-the-doctor-conducts-an-online-consultation-a-girl-calls-a-doctor-on-a-1734129854.jpg);
+    background-size: cover;
+    height: 100vh;
+    padding: 16px;
+  }
+  span {
+    color: blue;
+    font-size: large;
+    font-style: italic;
+  }
+  

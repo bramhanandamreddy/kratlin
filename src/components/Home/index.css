@@ -1,0 +1,25 @@
+.image {
+    height: 100px;
+    width: 100px;
+    margin: 0, auto;
+    border-radius: 16px;
+  }
+  .box {
+    width: 450px;
+    height: 350px;
+    border: 2px solid transparent;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    background-color: transparent;
+    margin: 50px auto;
+  }
+  .background {
+    background-image: url(https://img.lovepik.com/photo/40176/5101.jpg_wh300.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    padding: 16px;
+  }
+  
